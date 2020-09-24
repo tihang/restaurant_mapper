@@ -4,7 +4,7 @@ import ReactMapGL, {
 } from "@urbica/react-map-gl";
 import getConfig from "next/config";
 import { IconButton } from "@chakra-ui/core";
-import Pin from "./Pin";
+import Pin from "./ExploreMapPin";
 
 const { publicRuntimeConfig } = getConfig();
 

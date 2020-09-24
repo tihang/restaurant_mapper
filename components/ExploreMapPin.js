@@ -3,9 +3,8 @@ import { Marker, Popup } from "@urbica/react-map-gl";
 // this comment tells babel to convert jsx to calls to a function called jsx instead of React.createElement
 /** @jsx jsx */
 import { css, jsx } from "@emotion/core";
-import { Image, Text } from "@chakra-ui/core";
 
-export default function Pin({ business, focused, setFocused }) {
+export default function ExploreMapPin({ business, focused, setFocused }) {
   const sm = 30;
   const lg = 50;
 
