@@ -11,10 +11,17 @@
     "@chakra-ui/core": "^0.8.0",
     "@emotion/core": "^10.0.35",
     "@emotion/styled": "^10.0.27",
+    "@urbica/react-map-gl": "^1.14.1",
+    "axios": "^0.20.0",
     "emotion-theming": "^10.0.27",
+    "mapbox-gl": "^1.12.0",
+    "moment": "^2.29.0",
     "next": "9.5.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-map-gl": "^5.2.8"
+    "react-icons": "^3.11.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-scrollbars-custom": "^4.0.25",
+    "swr": "^0.3.2"
   }
 }

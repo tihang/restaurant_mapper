@@ -1,7 +1,11 @@
-import dynamic from "next/dynamic";
+import { Box, Image, Skeleton } from "@chakra-ui/core";
 
-const DynamicComponentWithNoSSR = dynamic(() => import("../components/map"), {
-  ssr: false,
-});
-
-export default () => <DynamicComponentWithNoSSR />;
+export default function index() {
+  return (
+    <Box>
+      <Skeleton>
+        <Image objectFit="cover" height="90vh" width="100vw" />
+      </Skeleton>
+    </Box>
+  );
+}

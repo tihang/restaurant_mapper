@@ -1,0 +1,782 @@
+{
+  "businesses": [
+    {
+      "id": "O0xFECgTDf1rbZzW9qUULQ",
+      "alias": "peter-pan-donut-and-pastry-shop-brooklyn-2",
+      "name": "Peter Pan Donut & Pastry Shop",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ogfDjUY7VeNhB091V1KiWA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/peter-pan-donut-and-pastry-shop-brooklyn-2?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 1337,
+      "categories": [
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        },
+        {
+          "alias": "donuts",
+          "title": "Donuts"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.726086,
+        "longitude": -73.952308
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "727 Manhattan Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Brooklyn",
+        "zip_code": "11222",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["727 Manhattan Ave", "Brooklyn, NY 11222"]
+      },
+      "phone": "+17183893676",
+      "display_phone": "(718) 389-3676",
+      "distance": 1705.4764582436496
+    },
+    {
+      "id": "dgaNriM1VdI2nGochhHE_g",
+      "alias": "casa-enrique-long-island-city",
+      "name": "Casa Enrique",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PTQbaqicKuCeiVjr_HzFZQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/casa-enrique-long-island-city?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 1204,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.743404338358,
+        "longitude": -73.954350367693
+      },
+      "transactions": ["delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "5-48 49th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11101",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["5-48 49th Ave", "Long Island City, NY 11101"]
+      },
+      "phone": "+13474486040",
+      "display_phone": "(347) 448-6040",
+      "distance": 1401.7355804312217
+    },
+    {
+      "id": "3lLBRLbXAIgd1yZgWgnfeg",
+      "alias": "dutch-kills-long-island-city",
+      "name": "Dutch Kills",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S11kn7JT_YRT4onWUBE54g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dutch-kills-long-island-city?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 760,
+      "categories": [
+        {
+          "alias": "lounges",
+          "title": "Lounges"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.747615,
+        "longitude": -73.940159
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "27-24 Jackson Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11101",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["27-24 Jackson Ave", "Long Island City, NY 11101"]
+      },
+      "phone": "+17183832724",
+      "display_phone": "(718) 383-2724",
+      "distance": 1083.0889342011176
+    },
+    {
+      "id": "MNNpsRXe7Wt5m3Jla9Wk0w",
+      "alias": "the-alcove-sunnyside",
+      "name": "The Alcove",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/peNqHPI1kUUKbvTse-xIxQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-alcove-sunnyside?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 876,
+      "categories": [
+        {
+          "alias": "gastropubs",
+          "title": "Gastropubs"
+        },
+        {
+          "alias": "tapas",
+          "title": "Tapas Bars"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": 40.7459065,
+        "longitude": -73.915103
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "41-11 49th St",
+        "address2": "",
+        "address3": "",
+        "city": "Sunnyside",
+        "zip_code": "11104",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["41-11 49th St", "Sunnyside, NY 11104"]
+      },
+      "phone": "+13478134159",
+      "display_phone": "(347) 813-4159",
+      "distance": 2228.9875903098277
+    },
+    {
+      "id": "Sj3JYCbaEFrAqUzRrenQbg",
+      "alias": "jora-restaurant-and-bar-long-island-city",
+      "name": "Jora Restaurant & Bar",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4c280RQuoJRM-77eqZEsjA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/jora-restaurant-and-bar-long-island-city?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 630,
+      "categories": [
+        {
+          "alias": "peruvian",
+          "title": "Peruvian"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        },
+        {
+          "alias": "tapas",
+          "title": "Tapas Bars"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.7438054,
+        "longitude": -73.9515007
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "47-46 11th St",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11101",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["47-46 11th St", "Long Island City, NY 11101"]
+      },
+      "phone": "+17183922033",
+      "display_phone": "(718) 392-2033",
+      "distance": 1214.0206242698823
+    },
+    {
+      "id": "Hh9glEE_xDYT_pPUsRPXlA",
+      "alias": "blend-on-the-water-long-island-city",
+      "name": "Blend on the Water",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VJPj7eeNq78j6JpGM2P8wQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/blend-on-the-water-long-island-city?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 3189,
+      "categories": [
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "lounges",
+          "title": "Lounges"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.748216,
+        "longitude": -73.956973
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "45-40 Center Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11109",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["45-40 Center Blvd", "Long Island City, NY 11109"]
+      },
+      "phone": "+17186069851",
+      "display_phone": "(718) 606-9851",
+      "distance": 1874.2310302084497
+    },
+    {
+      "id": "A_YpTLbAlEqeLVSs9bxbEA",
+      "alias": "club-a-steakhouse-new-york",
+      "name": "Club A Steakhouse",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/btpo6TMWXH8sZpFapU2cpA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/club-a-steakhouse-new-york?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 2791,
+      "categories": [
+        {
+          "alias": "steak",
+          "title": "Steakhouses"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.76006,
+        "longitude": -73.96557
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "240 E 58th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10022",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["240 E 58th St", "New York, NY 10022"]
+      },
+      "phone": "+12126884190",
+      "display_phone": "(212) 688-4190",
+      "distance": 3308.6615390866586
+    },
+    {
+      "id": "RElijPqDOAPTHT3J4n_FEA",
+      "alias": "mu-ramen-long-island-city-2",
+      "name": "Mu Ramen",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m-hlaW5DCgmHO-XM5wnFtQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mu-ramen-long-island-city-2?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 1218,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 40.743797,
+        "longitude": -73.950631
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "12-09 Jackson Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11101",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["12-09 Jackson Ave", "Long Island City, NY 11101"]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1152.5774953477867
+    },
+    {
+      "id": "a6SzfZ2F-uELmymusQVMBg",
+      "alias": "karczma-brooklyn",
+      "name": "Karczma",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Eq1HKex42BFN61jBgTbb0g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/karczma-brooklyn?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 579,
+      "categories": [
+        {
+          "alias": "polish",
+          "title": "Polish"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.729977,
+        "longitude": -73.955128
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "136 Greenpoint Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "zip_code": "11222",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["136 Greenpoint Ave", "Brooklyn, NY 11222"]
+      },
+      "phone": "+17183491744",
+      "display_phone": "(718) 349-1744",
+      "distance": 1591.7320522273974
+    },
+    {
+      "id": "4yPqqJDJOQX69gC66YUDkA",
+      "alias": "peter-luger-brooklyn-2",
+      "name": "Peter Luger",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cWn0RZ0qacJB04sK0Eyafw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/peter-luger-brooklyn-2?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 5774,
+      "categories": [
+        {
+          "alias": "steak",
+          "title": "Steakhouses"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.709945,
+        "longitude": -73.962478
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "178 Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "zip_code": "11211",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["178 Broadway", "Brooklyn, NY 11211"]
+      },
+      "phone": "+17183877400",
+      "display_phone": "(718) 387-7400",
+      "distance": 3666.5213963197125
+    },
+    {
+      "id": "pGr5QuQU7Ur5GHLvXbT8bw",
+      "alias": "paulie-gees-brooklyn",
+      "name": "Paulie Gee's",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1j39J4NABK_RBtO-l90QNg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/paulie-gees-brooklyn?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 1250,
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "vegan",
+          "title": "Vegan"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.729546,
+        "longitude": -73.958568
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "60 Greenpoint Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "zip_code": "11222",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["60 Greenpoint Ave", "Brooklyn, NY 11222"]
+      },
+      "phone": "+13479873747",
+      "display_phone": "(347) 987-3747",
+      "distance": 1866.0821638724833
+    },
+    {
+      "id": "gISZs8okQgFIpd-yz9aC4w",
+      "alias": "café-henri-long-island-city-2",
+      "name": "Café Henri",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HxmAsCL7_hFGbwbea8ArnA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/caf%C3%A9-henri-long-island-city-2?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 688,
+      "categories": [
+        {
+          "alias": "french",
+          "title": "French"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.742559,
+        "longitude": -73.953697
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1010 50th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11101",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["1010 50th Ave", "Long Island City, NY 11101"]
+      },
+      "phone": "+17187295794",
+      "display_phone": "(718) 729-5794",
+      "distance": 1312.529926447258
+    },
+    {
+      "id": "4DQ1S0s5ViRsw_wpcT65cw",
+      "alias": "john-brown-smokehouse-long-island-city-3",
+      "name": "John Brown Smokehouse",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vJxtB3lMkhPULrhtXYQLHg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/john-brown-smokehouse-long-island-city-3?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 911,
+      "categories": [
+        {
+          "alias": "bbq",
+          "title": "Barbeque"
+        },
+        {
+          "alias": "smokehouse",
+          "title": "Smokehouse"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.748894,
+        "longitude": -73.950097
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "10-43 44th Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11101",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["10-43 44th Dr", "Long Island City, NY 11101"]
+      },
+      "phone": "+13476171120",
+      "display_phone": "(347) 617-1120",
+      "distance": 1520.0798071879913
+    },
+    {
+      "id": "3n96VKiKG5Tte8z-U-TaLg",
+      "alias": "soleluna-restaurant-sunnyside",
+      "name": "SoleLuna Restaurant",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/63FR3qqFrWwpyT_pZpccJg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/soleluna-restaurant-sunnyside?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 395,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.7439934462309,
+        "longitude": -73.9240421354771
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "40-01 Queens Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Sunnyside",
+        "zip_code": "11104",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["40-01 Queens Blvd", "Sunnyside, NY 11104"]
+      },
+      "phone": "+19292963942",
+      "display_phone": "(929) 296-3942",
+      "distance": 1465.9881901751075
+    },
+    {
+      "id": "vnU9DTqqjQ5W8v_fq21O6A",
+      "alias": "gantry-plaza-state-park-long-island-city",
+      "name": "Gantry Plaza State Park",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OG-DbMGeCLJ859gHKWe6KA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gantry-plaza-state-park-long-island-city?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 345,
+      "categories": [
+        {
+          "alias": "parks",
+          "title": "Parks"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": 40.7455046393787,
+        "longitude": -73.9587663716889
+      },
+      "transactions": [],
+      "location": {
+        "address1": "4-09 47th Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Long Island City",
+        "zip_code": "11101",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["4-09 47th Rd", "Long Island City, NY 11101"]
+      },
+      "phone": "+17187866385",
+      "display_phone": "(718) 786-6385",
+      "distance": 1839.0342211169427
+    },
+    {
+      "id": "z5EpI39omxW6aK_X2uHi8A",
+      "alias": "lobster-joint-brooklyn",
+      "name": "Lobster Joint",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mqStg2ixrTyqOPTQWnqaFA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/lobster-joint-brooklyn?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 660,
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.7354,
+        "longitude": -73.95528
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "1073 Manhattan Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "zip_code": "11222",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["1073 Manhattan Ave", "Brooklyn, NY 11222"]
+      },
+      "phone": "+17183898990",
+      "display_phone": "(718) 389-8990",
+      "distance": 1372.2213785941967
+    },
+    {
+      "id": "qLLxS7RwNEjP_jq_KQrPfA",
+      "alias": "traif-brooklyn",
+      "name": "Traif",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PpkVfUXlooPy9uejl3zptg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/traif-brooklyn?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 1869,
+      "categories": [
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        },
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.710658,
+        "longitude": -73.958872
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$$",
+      "location": {
+        "address1": "229 S 4th St",
+        "address2": "",
+        "address3": "",
+        "city": "Brooklyn",
+        "zip_code": "11211",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["229 S 4th St", "Brooklyn, NY 11211"]
+      },
+      "phone": "+13478449578",
+      "display_phone": "(347) 844-9578",
+      "distance": 3444.795828466904
+    },
+    {
+      "id": "-OixbLnFLCzQclxCSbUQ8w",
+      "alias": "up-thai-new-york",
+      "name": "Up Thai",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i4TPZkTUWJn8aljC0UeU9Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/up-thai-new-york?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 2314,
+      "categories": [
+        {
+          "alias": "thai",
+          "title": "Thai"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.7698275926665,
+        "longitude": -73.9576330868512
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "1411 2nd Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10021",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["1411 2nd Ave", "New York, NY 10021"]
+      },
+      "phone": "+12122561188",
+      "display_phone": "(212) 256-1188",
+      "distance": 3869.373671933083
+    },
+    {
+      "id": "DHFEpeJXemrdxIuGGcyurg",
+      "alias": "de-mole-woodside",
+      "name": "De Mole",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DkgaCktEe263z_Kq59JCNg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/de-mole-woodside?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 619,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 40.7391932,
+        "longitude": -73.9202624
+      },
+      "transactions": ["pickup", "delivery"],
+      "price": "$$",
+      "location": {
+        "address1": "4502 48th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Woodside",
+        "zip_code": "11377",
+        "country": "US",
+        "state": "NY",
+        "display_address": ["4502 48th Ave", "Woodside, NY 11377"]
+      },
+      "phone": "+17183922161",
+      "display_phone": "(718) 392-2161",
+      "distance": 1617.7892920385902
+    },
+    {
+      "id": "gUJ6pHYd_fp2Ypq377P_vA",
+      "alias": "williamsburg-smorgasburg-saturday-brooklyn",
+      "name": "Williamsburg Smorgasburg - Saturday",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jc7VyQiwPzxkJkSk9kLSAA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/williamsburg-smorgasburg-saturday-brooklyn?adjust_creative=37jNprFs5eS7sHwqllcSrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=37jNprFs5eS7sHwqllcSrA",
+      "review_count": 1121,
+      "categories": [
+        {
+          "alias": "foodstands",
+          "title": "Food Stands"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.721021,
+        "longitude": -73.962177
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "90 Kent Ave",
+        "address2": "",
+        "address3": "East River State Park",
+        "city": "Brooklyn",
+        "zip_code": "11211",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "90 Kent Ave",
+          "East River State Park",
+          "Brooklyn, NY 11211"
+        ]
+      },
+      "phone": "+17189286603",
+      "display_phone": "(718) 928-6603",
+      "distance": 2684.582709715493
+    }
+  ],
+  "total": 3500,
+  "region": {
+    "center": {
+      "longitude": -73.9393873,
+      "latitude": 40.7378921
+    }
+  }
+}
