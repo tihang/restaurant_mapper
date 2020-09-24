@@ -8,7 +8,7 @@ import Pin from "./Pin";
 
 const { publicRuntimeConfig } = getConfig();
 
-export default function Map({
+export default function ExploreMap({
   data,
   viewport,
   setViewport,

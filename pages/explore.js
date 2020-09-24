@@ -4,7 +4,7 @@ import styled from "@emotion/styled";
 import { fetcher } from "../lib/fetcher";
 import Navigation from "../components/Navigation";
 
-const DynamicMap = dynamic(() => import("../components/Map.js"), {
+const DynamicMap = dynamic(() => import("../components/ExploreMap"), {
   ssr: false,
 });
 
