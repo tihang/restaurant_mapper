@@ -4,7 +4,6 @@ import ReactStars from "react-rating-stars-component";
 import Link from "next/link";
 
 const StyledBox = styled(Box)`
-  cursor: pointer;
   background-color: ${(props) =>
     props.business.id === props.focused.id ? "#E2E8F0" : null};
 
@@ -32,28 +31,9 @@ const NavItemCard = ({ business, focused, setFocused, index }) => {
         borderWidth="1px"
       >
         {/* TOP PART */}
-        <Box p="6" d="flex" justifyContent="space-between">
-          <Box p="6">
-            <Box d="flex" alignItems="baseline">
-              <Box
-                color="green.500"
-                fontWeight="semibold"
-                letterSpacing="wide"
-                fontSize="xs"
-                textTransform="uppercase"
-                ml="2"
-              >
-                {business.is_closed ? "CLOSED" : "OPEN"}
-              </Box>
-            </Box>
-
-            <Box
-              mt="1"
-              fontWeight="semibold"
-              fontSize="1.1rem"
-              as="h2"
-              isTruncated
-            >
+        <Box p="8" d="flex" justifyContent="space-between">
+          <Box>
+            <Box mt="1" fontWeight="semibold" fontSize="1.1rem" as="h2">
               {index + ". " + business.name}
             </Box>
 
@@ -72,9 +52,13 @@ const NavItemCard = ({ business, focused, setFocused, index }) => {
                   letterSpacing="wide"
                   fontSize="xs"
                   textDecoration="underline"
-                  ml="10"
                 >
-                  {business.review_count + " reviews"}
+                  <Link
+                    href={`/detail/[id]`}
+                    as={`/detail/${encodeURIComponent(business.id)}`}
+                  >
+                    {business.review_count + " reviews"}
+                  </Link>
                 </Box>
               </Box>
             </Box>
@@ -103,7 +87,7 @@ const NavItemCard = ({ business, focused, setFocused, index }) => {
               <Text letterSpacing={5}>{business.price}</Text>
             </Badge>
 
-            <Box d="flex" flexDir="column" alignSelf="flex-end">
+            <Box d="flex" flexDir="column" alignSelf="flex-end" mt={2}>
               {business.transactions &&
                 business.transactions.map((transaction, i) => {
                   return (
@@ -142,7 +126,9 @@ const NavItemCard = ({ business, focused, setFocused, index }) => {
               href={`/detail/[id]`}
               as={`/detail/${encodeURIComponent(business.id)}`}
             >
-              <Button variantColor="pink">Visit</Button>
+              <Button width="90px" variantColor="pink">
+                Visit
+              </Button>
             </Link>
           </Box>
         </Box>

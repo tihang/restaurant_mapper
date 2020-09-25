@@ -2,6 +2,7 @@ import { ThemeProvider, CSSReset } from "@chakra-ui/core";
 import Head from "next/head";
 import "mapbox-gl/dist/mapbox-gl.css";
 import Header from "./../components/Header";
+import { PersistGate } from "zustand-persist";
 
 function MyApp({ Component, pageProps }) {
   return (
