@@ -59,6 +59,18 @@ export default function about() {
           ></Icon>
         </a>
       </Text>
+
+      <Text fontSize="md" fontWeight="600" mt={6}>
+        <a href="https://tihang.github.io/" target="_blank">
+          Link to my personal website
+          <Icon
+            name="external-link"
+            mx={3}
+            mb={1}
+            _hover={{ color: "green" }}
+          ></Icon>
+        </a>
+      </Text>
     </Box>
   );
 }
