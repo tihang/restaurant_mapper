@@ -1,7 +1,5 @@
 # Thanks for visiting :pray:
 
----
-
 ## Use this web-app to explore restaurants :hamburger: around the :earth_americas:
 
 ##### _(optimized only for Desktop and Laptop for now) need to redirect to a different subdomain for mobile/tablet users_
