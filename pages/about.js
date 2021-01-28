@@ -34,13 +34,16 @@ export default function about() {
             Frontend: <strong>React with Next.js</strong>
           </ListItem>
           <ListItem>
+            Backend: <strong>Next with Vercel Serverless Functions</strong>
+          </ListItem>
+          <ListItem>
+            State Management: <strong>Zustand with SWR</strong>
+          </ListItem>
+          <ListItem>
             Styling: <strong>Chakra UI and Emotion</strong>
           </ListItem>
           <ListItem>
             Photos & Assets: <strong>Unsplash and unDraw</strong>
-          </ListItem>
-          <ListItem>
-            Backend: <strong>Next with Vercel Serverless Functions</strong>
           </ListItem>
           <ListItem>
             Deployment: <strong>Vercel</strong>
