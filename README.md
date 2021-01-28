@@ -1,16 +1,24 @@
-# **Thanks for visiting**
+# Thanks for visiting :pray:
 
-### This is a concept web-app I built for easily geolocating and exploring restaurants around the world.
+---
 
-### (OPTIMIZED ONLY FOR DESKTOP & LAPTOPS for now) need to redirect to a different subdomain for mobile/tablet users
+## Use this web-app to explore restaurants :hamburger: around the :earth_americas:
 
-#### Some highlights and credits: :pray:
+##### _(optimized only for Desktop and Laptop for now) need to redirect to a different subdomain for mobile/tablet users_
 
-- API & Data Provider: YELP
-- MAP API Provider: Mapbox
-- Frontend: React with Next.js
-- Backend: Next with Vercel Serverless Functions
-- State Management: Zustand with SWR
-- Styling: Chakra UI and Emotion
-- Photos & Assets: Unsplash and unDraw
-- Deployment: Vercel
+---
+
+#### _Check out the deployed version [here.](https://restaurant-mapper.vercel.app/)_
+
+---
+
+###### API's and libraries used for this project:
+
+- _API & Data Provider:_ **YELP**
+- _MAP API Provider:_ **Mapbox**
+- _Frontend:_ **React with Next.js**
+- _Backend:_ **Next with Vercel Serverless Functions**
+- _State Management:_ **Zustand with SWR**
+- _Styling:_ **Chakra UI and Emotion**
+- _Photos & Assets:_ **Unsplash and unDraw**
+- _Deployment & CI/CD:_ **Vercel**
